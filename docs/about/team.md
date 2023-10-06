@@ -1,4 +1,9 @@
-# 10:23 Team
+---
+title: About
+slug: /
+---
+
+# 小组作业主页
 
 ## 欢迎来到我们的小组作业主页！
 
@@ -28,3 +33,5 @@
 - 社交媒体：[Twitter](https://twitter.com/example_team) | [LinkedIn](https://www.linkedin.com/company/example-team)
 
 感谢您访问我们的小组作业主页！我们期待着与您合作，共同创造美好的学术和创新之旅。
+
+

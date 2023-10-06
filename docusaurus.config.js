@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer/themes/dracula');//亮暗是反的
+const darkCodeTheme = require('prism-react-renderer/themes/github');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -108,3 +108,15 @@ const config = {
 ;
 
 module.exports = config;
+// module.exports = {
+//     plugins: ['@docusaurus/theme-live-codeblock'],
+//     themeConfig: {
+//       liveCodeBlock: {
+//         /**
+//          * 实时效果显示的位置，在编辑器上方还是下方。
+//          * 可为："top" | "bottom"
+//          */
+//         playgroundPosition: 'bottom',
+//       },
+//     },
+//   };
