@@ -17,7 +17,7 @@ const sidebars = {
     doc: [{
         type: 'category', label: 'About', items: ['about/team'],
     }, {
-        type: 'category', label: 'Members', items: ['members/mcy'],
+        type: 'category', label: 'Members', items: ['members/mcy'], ['members/ypq'],
     }, {
         type: 'category', label: 'Projects', items: ['projects/website'],
     }
