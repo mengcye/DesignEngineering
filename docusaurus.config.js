@@ -13,7 +13,7 @@ const config = {
         baseUrl: '/',
         onBrokenLinks: 'throw',
         onBrokenMarkdownLinks: 'warn',
-        favicon: 'img/favicon.ico',
+        favicon: 'img/clock.png',
         organizationName: 'mengcye', // Usually your GitHub org/user name.
         projectName: 'DesignEngineering', // Usually your repo name.
 
@@ -75,8 +75,8 @@ const config = {
                 // },
 
                 navbar: {
-                    title: 'Team', logo: {
-                        alt: 'My Site Logo', src: 'img/logo.svg', width: 30
+                    title: '10:36 Team', logo: {
+                        alt: 'My Site Logo', src: 'img/clock1.png', width: 30
                     }, items: [{
                         href: 'https://github.com/mengcye/DesignEngineering/issues', label: 'Feedback', position: 'left'
                     }, {
