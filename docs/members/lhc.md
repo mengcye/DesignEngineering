@@ -1,9 +1,26 @@
-# Liu Hongchi
-<img src="file:///C:/Users/hp/Desktop/个人头像" alt="个人头像" align="left" width="原尺寸" height="原尺寸"/>
-
-<div style={{textAlign: "right", marginLeft: 10}} >
-hello!  
-I am Liu Hongchi, a girl from the south.  
-I enjoy drawing and writing. Sometimes I can be shy and other times lively, which creates a contrasting personality. I love cats, dogs, and cute things. I also enjoy anime and the world of two dimensions.   
-If you share the same interests and hobbies as me, feel free to connect and communicate with me.
+# Hongchi Liu
+<div align="center"><img  src="../../img/lhc.jpg"/>
 </div>
+
+## Basic Information
+
+- **Name:** Liu Hongchi
+- **Major:** Industrial Design
+- **Year:** twenty-three
+
+## Academic Information
+
+- **Research Focus:** Generative AI
+
+## Skills and Expertise
+
+- **Lab Skills:** As an industrial design major, I have mastered the visual aspects related to design. As a graduate student, I am also actively changing my identity and learning other professional skills such as thesis reading, literature searching or writing.
+- **Other Skills:** I am very interested in intelligent product design and have learned a lot about intelligent hardware. I enjoy using small sensors to build wonderful works that change the physical world.
+
+## Interests and Hobbies
+
+- In my personal time, I like painting and writing, like the lovely things in the real world, and also like the virtual culture of the second world. I welcome people with the same hobbies to communicate and discuss with me.
+
+## Contact Information
+
+- **Email:** 1323097358@qq.com

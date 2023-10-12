@@ -1,31 +1,33 @@
-# 小组作业主页
+## Welcome to our group homework homepage!
 
-## 欢迎来到我们的小组作业主页！
+### About us
 
-### 关于我们
+We are a team of passionate and creative master's students committed to collaborating on various academic tasks and projects. Our team members come from different professional backgrounds, bringing together a wealth of knowledge and skills to pursue excellence together.
 
-我们是一支充满热情和创意的硕士生小组，致力于合作完成各种学术任务和项目。我们的团队成员来自不同专业背景，汇集了丰富的知识和技能，以共同追求卓越。
+### Mission and Goals
 
-### 使命与目标
+Our mission is to achieve excellence in the academic field through collaboration and innovation. Our goal is to work together to promote the academic and personal development of team members while making positive contributions to the community and academia.
 
-我们的使命是通过协作和创新，在学术领域取得卓越成就。我们的目标是共同努力，促进团队成员的学术和个人发展，同时为社区和学术界做出积极贡献。
+### Projects
 
-### 项目
+We are currently working on an exciting project aimed at solving practical problems in society. Through teamwork, we hope to have a profound impact and provide innovative solutions to complex challenges. Welcome to visit our homepage at [10:36 Team](https://design-engineering.sixming.com/).
 
-我们目前正在着手一个令人振奋的项目，该项目旨在解决社会中的实际问题。通过团队合作，我们希望产生深远的影响，并为解决复杂的挑战提供创新的解决方案。
+### Team Members
 
-### 团队成员
+- **Meng Chenye**: Artificial Intelligence, Human Computer Interaction, Generative Model
 
-- **孟辰烨**：专业领域1，擅长技能1
-- **易珮琦**：专业领域2，擅长技能2
-- **高梓昆**：专业领域3，擅长技能3
-- **张颖**：专业领域3，擅长技能3
-- **刘泓池**：专业领域3，擅长技能3
+- **Yi Peiqi**: Product innovation design, service design, computer-aided design, etc
 
-### 联系我们
+- **Gao Zikun**: Traditional culture and digital creativity, Children's developmental dyslexia and attention
 
-如果您对我们的项目或团队感兴趣，或者想要了解更多信息，请随时联系我们：
+- **Zhang Ying**: HCI, AIGC
 
-- 电子邮件：[mengcy@zju.edu.cn](mailto:mengcy@zju.edu.cn)
+- **Liu Hongchi**: Generative AI
 
-感谢您访问我们的小组作业主页！我们期待着与您合作，共同创造美好的学术和创新之旅。
+### Contact Us
+
+If you are interested in our project or team, or would like to learn more, please feel free to contact us:
+
+- Email: [mengcy@zju.edu.cn](mailto:mengcy@zju.edu.cn)
+
+Thank you for visiting our group homework homepage! We look forward to working with you to create a wonderful journey of academic and innovation.
